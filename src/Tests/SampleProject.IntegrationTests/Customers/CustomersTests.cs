@@ -1,4 +1,4 @@
-﻿using System.Data.SqlClient;
+﻿using Microsoft.Data.SqlClient;
 using System.Threading.Tasks;
 using NUnit.Framework;
 using SampleProject.Application.Customers.GetCustomerDetails;
